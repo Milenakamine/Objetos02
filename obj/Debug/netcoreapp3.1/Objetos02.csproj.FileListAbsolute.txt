@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\obj\Debug\netcoreapp3.1\Objetos02.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\obj\Debug\netcoreapp3.1\Objetos02.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\obj\Debug\netcoreapp3.1\Objetos02.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\obj\Debug\netcoreapp3.1\Objetos02.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\bin\Debug\netcoreapp3.1\Objetos02.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\bin\Debug\netcoreapp3.1\Objetos02.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\bin\Debug\netcoreapp3.1\Objetos02.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\bin\Debug\netcoreapp3.1\Objetos02.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\bin\Debug\netcoreapp3.1\Objetos02.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\bin\Debug\netcoreapp3.1\Objetos02.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\obj\Debug\netcoreapp3.1\Objetos02.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\obj\Debug\netcoreapp3.1\Objetos02.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Objeto\Objetos02\obj\Debug\netcoreapp3.1\Objetos02.genruntimeconfig.cache
